@@ -5,3 +5,5 @@ pillow
 python-multipart
 opencv-python-headless
 numpy
+gunicorn
+
